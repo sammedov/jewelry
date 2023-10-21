@@ -1,0 +1,52 @@
+.allPr{
+  color: black ;
+}
+
+.written{
+  width: 200px;
+  height: 100px;
+  font-size: xx-large;
+  margin: auto;
+  padding: 17px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.input{
+  padding: 10px;
+  margin: auto;
+  display: inherit;
+}
+.input:focus{
+  outline: none;
+}
+.gridContainer{
+
+  // gap:  10px;
+  // column-gap: 30px;
+  // row-gap: 40px;
+  // background-color: green;
+  // padding: 20px;
+  border: 1px solid #f5f2f2;
+  border-radius: 10px;
+  text-align: center;
+  justify-content: center ;
+
+}
+.gridItems{
+background-color:#f5f2f2;
+border-radius: 10px;
+padding: 30px;
+// width: 170px;
+}
+.mehsul{
+  // position: relative;
+  // display: flex;
+  // transition: translate(-50%,-50%);
+}
+
+.mehsulTap{
+  // position: absolute;
+  // left: 450px;
+  // align-items: flex-end;
+}

@@ -1,0 +1,41 @@
+.rounded{
+  // display: flex;
+  // align-items: center;
+  // gap: 40px;
+  // margin: 70px 0;
+  // justify-content: space-evenly;
+  text-align: center;
+}
+
+.img{
+  border-radius: 90px;
+}
+
+.phCategory{
+  margin-top: 20px;
+  z-index: 99;
+}
+.text{
+  margin-top: 10px;
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.rounCon{
+  position: relative;
+}
+
+
+.roundedCat{
+  // position: absolute;
+  // bottom: 0;
+  // left: 50px;
+  margin-top: 900px;
+  // display: flex;
+  // align-items: center;
+  // justify-content: center;
+
+  // padding: 15px 0;
+  // color: red;
+  // margin-bottom: 10px;
+}
